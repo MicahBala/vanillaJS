@@ -8,7 +8,11 @@ concepts.
 
 ### Week 1: Project 1 - [Live Demo](./week_one/index.html)
 
-**Concept:** Basic DOM Manipulation
+**Concept:** Basic DOM Manipulation and Event Handling
+
+- Build a basic to-do list where users can add, and mark items as completed.
+- Practice referencing DOM elements, addEventListener, and updating the DOM
+  dynamically.
 
 ## How to Run
 
