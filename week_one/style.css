@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(233, 238, 232);
+}
+
+.container {
+    width: 30rem;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 1rem 1.5rem;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#search-form {
+    width: 80%;
+}
+
+#search-input {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.todo-list {
+    width: 85%;
+}
+
+#list {
+    padding: 1rem;
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list-item {
+    padding: 0.5rem;
+    cursor: pointer;
+    width: 100%;
+    display: block;
+}
+
+
+.list-item:nth-child(odd) {
+    background-color: rgb(223, 222, 222);
+}
+
+.list-item:hover {
+    background-color: rgb(190, 190, 190);
+}
+
+#btn-delete {
+    border: none;
+    background-color: rgb(209, 33, 33);
+    border-radius: 5px;
+    color: #fff;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.strike {
+    text-decoration: line-through;
+}
