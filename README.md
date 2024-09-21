@@ -23,3 +23,15 @@ concepts.
 3. Open `index.html` in your browser to see the live demo.
 
 Happy coding!
+
+## Author
+
+**Micah Bala**
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE)
+file for details.
+
+Feel free to contribute and improve upon this project. Pull requests are
+welcome!
